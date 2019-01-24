@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "c0 741327", "c0 741327\c0 741327.jsproj", "{99DDF043-34EB-4751-A9AA-BA623CA74FEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99DDF043-34EB-4751-A9AA-BA623CA74FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99DDF043-34EB-4751-A9AA-BA623CA74FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99DDF043-34EB-4751-A9AA-BA623CA74FEE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{99DDF043-34EB-4751-A9AA-BA623CA74FEE}.Debug|ARM.ActiveCfg = Debug|ARM
+		{99DDF043-34EB-4751-A9AA-BA623CA74FEE}.Debug|ARM.Build.0 = Debug|ARM
+		{99DDF043-34EB-4751-A9AA-BA623CA74FEE}.Debug|ARM.Deploy.0 = Debug|ARM
+		{99DDF043-34EB-4751-A9AA-BA623CA74FEE}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{99DDF043-34EB-4751-A9AA-BA623CA74FEE}.Debug|ARM64.Build.0 = Debug|ARM64
+		{99DDF043-34EB-4751-A9AA-BA623CA74FEE}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{99DDF043-34EB-4751-A9AA-BA623CA74FEE}.Debug|x64.ActiveCfg = Debug|x64
+		{99DDF043-34EB-4751-A9AA-BA623CA74FEE}.Debug|x64.Build.0 = Debug|x64
+		{99DDF043-34EB-4751-A9AA-BA623CA74FEE}.Debug|x64.Deploy.0 = Debug|x64
+		{99DDF043-34EB-4751-A9AA-BA623CA74FEE}.Debug|x86.ActiveCfg = Debug|x86
+		{99DDF043-34EB-4751-A9AA-BA623CA74FEE}.Debug|x86.Build.0 = Debug|x86
+		{99DDF043-34EB-4751-A9AA-BA623CA74FEE}.Debug|x86.Deploy.0 = Debug|x86
+		{99DDF043-34EB-4751-A9AA-BA623CA74FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99DDF043-34EB-4751-A9AA-BA623CA74FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99DDF043-34EB-4751-A9AA-BA623CA74FEE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{99DDF043-34EB-4751-A9AA-BA623CA74FEE}.Release|ARM.ActiveCfg = Release|ARM
+		{99DDF043-34EB-4751-A9AA-BA623CA74FEE}.Release|ARM.Build.0 = Release|ARM
+		{99DDF043-34EB-4751-A9AA-BA623CA74FEE}.Release|ARM.Deploy.0 = Release|ARM
+		{99DDF043-34EB-4751-A9AA-BA623CA74FEE}.Release|ARM64.ActiveCfg = Release|ARM64
+		{99DDF043-34EB-4751-A9AA-BA623CA74FEE}.Release|ARM64.Build.0 = Release|ARM64
+		{99DDF043-34EB-4751-A9AA-BA623CA74FEE}.Release|ARM64.Deploy.0 = Release|ARM64
+		{99DDF043-34EB-4751-A9AA-BA623CA74FEE}.Release|x64.ActiveCfg = Release|x64
+		{99DDF043-34EB-4751-A9AA-BA623CA74FEE}.Release|x64.Build.0 = Release|x64
+		{99DDF043-34EB-4751-A9AA-BA623CA74FEE}.Release|x64.Deploy.0 = Release|x64
+		{99DDF043-34EB-4751-A9AA-BA623CA74FEE}.Release|x86.ActiveCfg = Release|x86
+		{99DDF043-34EB-4751-A9AA-BA623CA74FEE}.Release|x86.Build.0 = Release|x86
+		{99DDF043-34EB-4751-A9AA-BA623CA74FEE}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A2302F4-7EDA-48E2-BA8C-CC3BAF1DCE7D}
+	EndGlobalSection
+EndGlobal
